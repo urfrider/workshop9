@@ -2975,12 +2975,18 @@
       "task_type": "sentiment",
       "model": "glm-5.2",
       "latency_seconds": 1.625
+    },
+    {
+      "timestamp": "2026-11-25T08:47:26.788725+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "latency_seconds": 0.0
     }
   ],
   "summary": {
     "p50_latency": 0.0002,
-    "p95_latency": 5.1426,
-    "avg_latency": 1.2172,
-    "total_requests": 496
+    "p95_latency": 5.136,
+    "avg_latency": 1.2148,
+    "total_requests": 497
   }
 }

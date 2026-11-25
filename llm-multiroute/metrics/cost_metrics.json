@@ -3967,11 +3967,19 @@
       "input_tokens": 406,
       "output_tokens": 67,
       "total_tokens": 473
+    },
+    {
+      "timestamp": "2026-11-25T08:47:26.839307+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
     }
   ],
   "summary": {
     "total_input_tokens": 58398,
     "total_output_tokens": 32350,
-    "total_requests": 496
+    "total_requests": 497
   }
 }
